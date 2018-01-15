@@ -73,7 +73,7 @@ class Employer {
         allMeals[delivery.mealId]++;
       }
     })
-    return allMeals
+    return allMeals;
   }
 }
 class Customer {
